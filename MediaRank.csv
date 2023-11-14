@@ -1,0 +1,201 @@
+Media Rank - Specific,News Source Title,News Topic,Country,Language,Media Rank - Overall,Link,Source Name
+1,The New York Times,General,United States,English,1,nytimes.com,nytimes
+2,The Washington Post,General,United States,English,2,washingtonpost.com,washingtonpost
+3,CNN,General,United States,English,4,cnn.com,cnn
+4,Reuters,General,United States,English,6,reuters.com,reuters
+5,Bloomberg,Business,United States,English,7,bloomberg.com,bloomberg
+6,ESPN,Sports,United States,English,8,espn.com,espn
+7,The Wall Street Journal,Business,United States,English,9,wsj.com,wsj
+8,USA TODAY,General,United States,English,10,usatoday.com,usatoday
+9,Politico,General,United States,English,11,politico.com,politico
+10,NPR: National Public Radio,General,United States,English,12,npr.org,npr
+11,Business Insider,Business,United States,English,13,businessinsider.com,businessinsider
+12,Hollywood Reporter,Entertainment,United States,English,14,hollywoodreporter.com,hollywoodreporter
+13,Nature,Science,United States,English,15,nature.com,nature
+14,Variety,Entertainment,United States,English,17,variety.com,variety
+15,Forbes,Business,United States,English,18,forbes.com,forbes
+16,Los Angeles Times,General,United States,English,19,latimes.com,latimes
+17,CNBC,Business,United States,English,20,cnbc.com,cnbc
+18,SB Nation,Sports,United States,English,22,sbnation.com,sbnation
+19,People,Entertainment,United States,English,23,people.com,people
+20,Associated Press News,General,United States,English,25,apnews.com,apnews
+21,HuffPost,General,United States,English,27,huffingtonpost.com,huffingtonpost
+22,NBC News,General,United States,English,28,nbcnews.com,nbcnews
+23,Science Direct,General,United States,English,30,sciencedirect.com,sciencedirect
+24,CBS News,General,United States,English,32,cbsnews.com,cbsnews
+25,The Atlantic,General,United States,English,34,theatlantic.com,theatlantic
+26,Deadline,Entertainment,United States,English,35,deadline.com,deadline
+27,BuzzFeed,General,United States,English,36,buzzfeed.com,buzzfeed
+28,The Hill,General,United States,English,37,thehill.com,thehill
+29,The Verge,Technology,United States,English,38,theverge.com,theverge
+30,TMZ,Entertainment,United States,English,40,tmz.com,tmz
+31,New York Post,General,United States,English,41,nypost.com,nypost
+32,The New Yorker,General,United States,English,42,newyorker.com,newyorker
+33,Fox News,General,United States,English,43,foxnews.com,foxnews
+34,MLB.com,Sports,United States,English,44,mlb.com,mlb
+35,NFL,Sports,United States,English,45,nfl.com,nfl
+36,TechCrunch,Technology,United States,English,46,techcrunch.com,techcrunch
+37,Fortune,General,United States,English,47,fortune.com,fortune
+38,Chicago Tribune,General,United States,English,49,chicagotribune.com,chicagotribune
+39,US News,General,United States,English,50,usnews.com,usnews
+40,Science Journal,General,United States,English,51,sciencemag.org,sciencemag
+41,Entertainment Weekly,Entertainment,United States,English,52,ew.com,ew
+42,Vox,General,United States,English,53,vox.com,vox
+43,CBS Local,General,United States,English,58,cbslocal.com,cbslocal
+44,VICE,General,United States,English,59,vice.com,vice
+45,Newsweek,General,United States,English,60,newsweek.com,newsweek
+46,TIME,General,United States,English,61,time.com,time
+47,NY Daily News,General,United States,English,62,nydailynews.com,nydailynews
+48,WIRED,Technology,United States,English,64,wired.com,wired
+49,Rolling Stone,Entertainment,United States,English,65,rollingstone.com,rollingstone
+50,Sports Illustrated,Sports,United States,English,66,si.com,si
+51,Slate Magazine,General,United States,English,68,slate.com,slate
+52,Pew Research Centre,General,United States,English,70,pewresearch.org,pewresearch
+53,Vanity Fair,Entertainment,United States,English,72,vanityfair.com,vanityfair
+54,Page Six,Entertainment,United States,English,76,pagesix.com,pagesix
+55,CBS Sports,Sports,United States,English,77,cbssports.com,cbssports
+56,"British Medical Journal,",Health,United States,English,78,bmj.com,bmj
+57,Mashable,General,United States,English,82,mashable.com,mashable
+58,Proceedings of the National Academy of Sciences of the United States of America,General,United States,English,84,pnas.org,pnas
+59,Baseball Reference,Sports,United States,English,85,baseball-reference.com,baseball-reference
+60,CNET,Technology,United States,English,88,cnet.com,cnet
+61,New York Magazine,General,United States,English,89,nymag.com,nymag
+62,Axios,General,United States,English,90,axios.com,axios
+63,The Boston Globe,General,United States,English,91,bostonglobe.com,bostonglobe
+64,Harvard Business Review,Business,United States,English,93,hbr.org,hbr
+65,Rotoworld,Sports,United States,English,95,rotoworld.com,rotoworld
+66,Internet Archive,N/A,United States,English,96,archive.org,archive
+67,Breitbark News,General,United States,English,97,breitbart.com,breitbart
+68,Oxford University Press,General,United States,English,98,oup.com,oup
+69,E! News,Entertainment,United States,English,100,eonline.com,eonline
+70,Bleacher Report,Sports,United States,English,103,bleacherreport.com,bleacherreport
+71,Public Library of Science,General,United States,English,104,plos.org,plos
+72,PBS: Public Broadcasting Service,General,United States,English,105,pbs.org,pbs
+73,Jama Network,Health,United States,English,112,jamanetwork.com,jamanetwork
+74,MarketWatch,Business,United States,English,114,marketwatch.com,marketwatch
+75,Rotten Tomatoes,Entertainment,United States,English,115,rottentomatoes.com,rottentomatoes
+76,The Washington Times,General,United States,English,117,washingtontimes.com,washingtontimes
+77,nejm.org,Health,United States,English,118,nejm.org,nejm
+78,National Geographic,General,United States,English,120,nationalgeographic.com,nationalgeographic
+79,Gizmodo,General,United States,English,121,gizmodo.com,gizmodo
+80,Harvard University,Health,United States,English,122,harvard.edu,harvard
+81,Associated Press News,Sports,United States,English,125,ap.org,ap
+82,NBA,Sports,United States,English,126,nba.com,nba
+83,Miami Herald,General,United States,English,127,miamiherald.com,miamiherald
+84,Us Weekly,Entertainment,United States,English,131,usmagazine.com,usmagazine
+85,Five Thirty Eight,General,United States,English,133,fivethirtyeight.com,fivethirtyeight
+86,Billboard,Entertainment,United States,English,135,billboard.com,billboard
+87,Taylor & Francis Group,General,United States,English,136,tandfonline.com,tandfonline
+88,Ars Technica,Technology,United States,English,137,arstechnica.com,arstechnica
+89,smartURL,Entertainment,United States,N/A,138,smarturl.it,smarturl
+90,Engadget,Technology,United States,English,139,engadget.com,engadget
+91,The Seattle Times,General,United States,English,140,seattletimes.com,seattletimes
+92,New Jersey NJ,Sports,United States,English,142,nj.com,nj
+93,Recode,Technology,United States,English,143,recode.net,recode
+94,Cell Press,General,United States,N/A,149,cell.com,cell
+95,The Mercury News,General,United States,English,150,mercurynews.com,mercurynews
+96,NBC Today,General,United States,English,153,today.com,today
+97,Detroit Free Press,Sports,United States,English,154,freep.com,freep
+98,Entertainment Tonight,Entertainment,United States,English,155,etonline.com,etonline
+99,The Lancet,General,United States,English,160,thelancet.com,thelancet
+100,The Denver Post,General,United States,English,161,denverpost.com,denverpost
+101,Gallup,General,United States,English,162,gallup.com,gallup
+102,Massachussets Institute of Technology,General,United States,English,168,mit.edu,mit
+103,SFGate,General,United States,English,174,sfgate.com,sfgate
+104,Pro Football Reference,Sports,United States,English,175,pro-football-reference.com,pro-football-reference
+105,Target,Business,United States,English,180,target.com,target
+106,Cleveland,Sports,United States,English,181,cleveland.com,cleveland
+107,Washington Examiner,General,United States,English,183,washingtonexaminer.com,washingtonexaminer
+108,Eater,Entertainment,United States,English,189,eater.com,eater
+109,Scientific American,General,United States,English,195,scientificamerican.com,scientificamerican
+110,Cosmopolitan,Entertainment,United States,English,196,cosmopolitan.com,cosmopolitan
+111,The Cut,Entertainment,United States,English,198,thecut.com,thecut
+112,Basketball Refernece,Sports,United States,English,199,basketball-reference.com,basketball-reference
+113,Psychology Today.,Health,United States,English,201,psychologytoday.com,psychologytoday
+114,Adweek,General,United States,English,202,adweek.com,adweek
+115,The Daily Beast,General,United States,English,203,thedailybeast.com,thedailybeast
+116,Orange County Register,General,United States,English,204,ocregister.com,ocregister
+117,The Arizona Republic,General,United States,English,205,azcentral.com,azcentral
+118,Weather Channel,General,United States,English,206,weather.com,weather
+119,At&t,Business,United States,English,207,att.com,att
+120,Dallas News,Sports,United States,English,208,dallasnews.com,dallasnews
+121,Walmart,Business,United States,English,209,walmart.com,walmart
+122,Fast Company,General,United States,English,210,fastcompany.com,fastcompany
+123,iheart.com,Entertainment,United States,English,212,iheart.com,iheart
+124,coinbase.com,Business,United States,English,213,coinbase.com,coinbase
+125,Nike,Sports,United States,English,215,nike.com,nike
+126,The Daily Caller,General,United States,English,216,dailycaller.com,dailycaller
+127,Web MD,Health,United States,English,223,webmd.com,webmd
+128,PolitiFact,General,United States,English,226,politifact.com,politifact
+129,Polygon,Technology,United States,English,227,polygon.com,polygon
+130,University of Cornell,General,United States,English,228,cornell.edu,cornell
+131,mixer.com,General,United States,N/A,231,mixer.com,mixer
+132,Philly,General,United States,English,233,philly.com,philly
+133,GQ,Entertainment,United States,English,234,gq.com,gq
+134,Kotaku,Technology,United States,English,235,kotaku.com,kotaku
+135,University of Stanford,Health,United States,English,237,stanford.edu,stanford
+136,Tampa Bay Times,General,United States,English,244,tampabay.com,tampabay
+137,Seeking Alpha,Business,United States,English,247,seekingalpha.com,seekingalpha
+138,The Wrap,Entertainment,United States,English,249,thewrap.com,thewrap
+139,Sun Sentinel,General,United States,English,251,sun-sentinel.com,sun-sentinel
+140,Pitchfork,Entertainment,United States,English,254,pitchfork.com,pitchfork
+141,Bustle,Entertainment,United States,English,255,bustle.com,bustle
+142,Smithsonian Magazine,General,United States,English,256,smithsonianmag.com,smithsonianmag
+143,MacRumors,Technology,United States,English,261,macrumors.com,macrumors
+144,National Review,General,United States,English,262,nationalreview.com,nationalreview
+145,Deadspin,Sports,United States,English,265,deadspin.com,deadspin
+146,St. Louis Post-Dispatch,General,United States,English,268,stltoday.com,stltoday
+147,RealClearPolitics,General,United States,English,270,realclearpolitics.com,realclearpolitics
+148,Comic Book,Technology,United States,English,271,comicbook.com,comicbook
+149,Sporting News,Sports,United States,English,272,sportingnews.com,sportingnews
+150,Inc.,Business,United States,English,273,inc.com,inc
+151,Snopes.com,General,United States,English,276,snopes.com,snopes
+152,FOX Sports,Sports,United States,English,277,foxsports.com,foxsports
+153,Refinery29,Entertainment,United States,English,281,refinery29.com,refinery29
+154,Zacks Investment Research,Business,United States,English,283,zacks.com,zacks
+155,StarTribune,General,United States,English,287,startribune.com,startribune
+156,Oracle,Business,United States,English,289,oracle.com,oracle
+157,The Business Journals,Business,United States,English,291,bizjournals.com,bizjournals
+158,ScienceDaily,Health,United States,N/A,295,sciencedaily.com,sciencedaily
+159,Screen Rant,Entertainment,United States,English,298,screenrant.com,screenrant
+160,Tesla,Business,United States,English,303,tesla.com,tesla
+161,Baltimore Sun,General,United States,English,305,baltimoresun.com,baltimoresun
+162,Timeout,Entertainment,United States,Portuguese,307,timeout.com,timeout
+163,Esquire,General,United States,English,309,esquire.com,esquire
+164,Salon,General,United States,English,310,salon.com,salon
+165,Delta,Business,United States,English,312,delta.com,delta
+166,Entrepreneur,Business,United States,English,315,entrepreneur.com,entrepreneur
+167,Mother Jones,General,United States,English,319,motherjones.com,motherjones
+168,Penn State University,General,United States,English,323,psu.edu,psu
+169,Office,Technology,United States,English,327,office.com,office
+170,History,General,United States,English,328,history.com,history
+171,Patch,General,United States,English,329,patch.com,patch
+172,Elle,Entertainment,United States,English,332,elle.com,elle
+173,Curbed,Business,United States,English,333,curbed.com,curbed
+174,Live Science,General,United States,English,338,livescience.com,livescience
+175,Hollywood Life,Entertainment,United States,English,340,hollywoodlife.com,hollywoodlife
+176,Nerd Wallet,Business,United States,English,341,nerdwallet.com,nerdwallet
+177,Box office mojo,Entertainment,United States,English,342,boxofficemojo.com,boxofficemojo
+178,Hollywood Buzz,Entertainment,United States,English,344,toofab.com,toofab
+179,Digital Trends,Technology,United States,English,348,digitaltrends.com,digitaltrends
+180,Heavy.com,General,United States,English,354,heavy.com,heavy
+181,CBS,General,United States,English,357,cbs.com,cbs
+182,TV Guide,Entertainment,United States,English,360,tvguide.com,tvguide
+183,Houston Chronicle,General,United States,English,361,chron.com,chron
+184,mckinsey.com,Business,United States,English,363,mckinsey.com,mckinsey
+185,net-a-porter.com,Entertainment,United States,German,368,net-a-porter.com,net-a-porter
+186,Michigan News,General,United States,English,369,mlive.com,mlive
+187,Jezebel,Entertainment,United States,English,370,jezebel.com,jezebel
+188,Kaspersky,Technology,United States,English,373,kaspersky.com,kaspersky
+189,Complex,Entertainment,United States,English,374,complex.com,complex
+190,Minor League Baseball,Sports,United States,English,375,milb.com,milb
+191,Realtor,General,United States,English,376,realtor.com,realtor
+192,Bitly,Business,United States,N/A,377,bitly.com,bitly
+193,The Ringer,Sports,United States,English,379,theringer.com,theringer
+194,ProPublica,General,United States,English,380,propublica.org,propublica
+195,Harper's Bazzar,Entertainment,United States,English,385,harpersbazaar.com,harpersbazaar
+196,Space.com,Science,United States,English,390,space.com,space
+197,The Intercept,General,United States,English,391,theintercept.com,theintercept
+198,POPSUGAR,Entertainment,United States,English,393,popsugar.com,popsugar
+199,thebalance.com,Business,United States,English,397,thebalance.com,thebalance
+200,Boston,Sports,United States,English,400,boston.com,boston
